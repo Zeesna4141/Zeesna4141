@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zeesna4141
-- I am in the porcess of learning python, so any help with questions is much appreciated. 
+- I am a python developer, working remotely and would love any feedback on my public repos! Most of them are sadly private due to having sensitive inforamtion. 
 
 <!---
 Zeesna4141/Zeesna4141 is a ✨ special ✨ repository because its `intro.md` (this file) appears on your GitHub profile.
